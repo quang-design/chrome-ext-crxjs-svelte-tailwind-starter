@@ -1,5 +1,5 @@
 {
-  "name": "crxjs-svelte",
+  "name": "chrome-ext-crxjs-svelte-tailwind-starter",
   "type": "module",
   "version": "1.0.0",
   "private": true,
